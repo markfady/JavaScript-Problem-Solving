@@ -6,4 +6,5 @@ function exclude_lowest_highest(arr){
     console.log(newArray)
 }
 
-exclude_lowest_highest([100,200,400,300])   //Will remove the highest value 'not index' (400) and lowest value(100) and sum the other 
+exclude_lowest_highest([100,200,400,300])   
+//Will remove the highest value 'not index' (400) and lowest value(100) and sum the other 
