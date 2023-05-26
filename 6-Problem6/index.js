@@ -1,5 +1,4 @@
 function presentsheep(arr){
-
     let i=0;
     arr.map((x)=>{
     if (x=="true"){     
