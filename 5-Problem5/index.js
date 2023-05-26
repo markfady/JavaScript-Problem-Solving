@@ -6,7 +6,6 @@ return   array.map((x) => {       //loop on each item
 return   parseInt(x);      //to convert them back into numbers
 })
 */
-
 //solution 2 
 return numbers.toString().split('').map((x)=>Number(x)).reverse();
 }
