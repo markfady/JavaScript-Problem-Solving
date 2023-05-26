@@ -8,6 +8,6 @@ function needle(arr){
   }
   */
   //solution 2
-      return "Index of needle is "+arr.indexOf('needle');
-  }
-  console.log(needle(['hay','needle','junk']))
+    return "Index of needle is "+arr.indexOf('needle');
+}
+console.log(needle(['hay','needle','junk']))
