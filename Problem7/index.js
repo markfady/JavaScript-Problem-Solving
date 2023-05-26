@@ -1,4 +1,4 @@
 function opposite(number){
     return -1*number
 }
-console.log(opposite(1))
+console.log(opposite(-34))
