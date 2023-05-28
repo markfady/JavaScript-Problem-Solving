@@ -9,9 +9,5 @@ function removeExclamation(str){
     
     //solution 2 
     return str.replace(/!$/,"")
-
-
-
-
 }
 console.log(removeExclamation("!HI!!"))
