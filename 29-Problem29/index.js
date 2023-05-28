@@ -1,4 +1,4 @@
 function removeExclamation(str){  
- return str.slice(0,str.length-1)
+    return str.replace(/!$/,"")
 }
-console.log(removeExclamation("HI!"))
+console.log(removeExclamation("!HI!!"))
