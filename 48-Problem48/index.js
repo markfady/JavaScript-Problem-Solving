@@ -7,4 +7,4 @@ function Grasshopper(num){
     //solution2
     return Array(num).fill().reduce((acc,current,index)=>acc+index+1,0)
 }
-console.log(Grasshopper(2))
+console.log(Grasshopper(2));
